@@ -19,31 +19,31 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: キツネ_helix_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: キツネ_helix_right
